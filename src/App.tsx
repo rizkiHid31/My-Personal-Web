@@ -3,7 +3,7 @@ import "./App.css";
 const projects = [
   {
     id: 1,
-    title: "Master Even",
+    title: "Master Event",
     description:
       "Full-stack event management app with Customer and Organizer roles. Features a complete payment flow, vouchers, wallet/points system, and post-event reviews.",
     tech: ["React 19", "TypeScript", "Node.js", "PostgreSQL", "Prisma", "Redis"],
